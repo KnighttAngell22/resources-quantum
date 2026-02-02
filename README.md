@@ -1,13 +1,13 @@
 # resources-quantum
 
 
-1. Linear Alegbra
+#1. Linear Alegbra
    # References :
      1. Nielson and Chuang chp. 2 (https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf)
      2. https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/calendar/
      3. https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
-2. Quantum Information and Systems by IBM
+#2. Quantum Information and Systems by IBM
    # References :
      1. https://youtu.be/tsbCSkvHhMo?si=3bLVMCh-LxCxwWmE
      2. https://youtu.be/F_Riqjdh2oM?si=fDzjcGZ3cf3h8yK1
